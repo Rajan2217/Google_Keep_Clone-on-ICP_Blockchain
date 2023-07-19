@@ -53,7 +53,7 @@ Before running DKeeper, ensure you have the following tools installed:
 1. Clone the DKeeper repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/dkeeper.git
+git clone https://github.com/Rajan2217/Google_Keep_Clone-on-ICP_Blockchain.git
 # Navigate to the project directory.
 cd dkeeper
 ```
@@ -94,7 +94,7 @@ To interact with DKeeper, you need to run the application on your local machine.
 2. Navigate to the project's root directory in your terminal.
 3. Install the necessary dependencies by running: `npm install`.
 4. Start the development server with: `npm start`.
-5. Open your web browser and visit `http://localhost:8080` to access DKeeper.
+5. Open your web browser and visit http://localhost:8080 to access DKeeper.
 
 ## Contributing
 
